@@ -13,10 +13,10 @@ In January 2022 game's prologue have become fully playable.
 Tools&assets used:
 
 - Unreal Engine 4.26.1 with follwing assets:
- - Medieval Dungeon made by Infuse Studios
- - Medieval Castle Modular made by GameAssetFactory
- - Free Fantasy Sample Weapon Pack made by Prop Garden LLC
- - Alchemist’s House made by Evgeniya Yaremko
+  - Medieval Dungeon made by Infuse Studios
+  - Medieval Castle Modular made by GameAssetFactory
+  - Free Fantasy Sample Weapon Pack made by Prop Garden LLC
+  - Alchemist’s House made by Evgeniya Yaremko
  
 - Reallusion Character Creator Auto Setup Pipeline Plugin v. 1.21 made by Reallusion
  
@@ -24,5 +24,5 @@ Tools&assets used:
 - Articy Draft Importer Plugin made by articy Software
 
 - Character Creator 3.44 with following assets:
- - Castle Guard Male made by Xurge 3D
- - The Guardian – Fantasy Armor made Slayerazazel
+  - Castle Guard Male made by Xurge 3D
+  - The Guardian – Fantasy Armor made Slayerazazel
