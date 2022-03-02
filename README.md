@@ -1,4 +1,7 @@
 # LotE
+![obraz](https://user-images.githubusercontent.com/68967003/156369574-8df28cfb-2862-4635-8dad-d861527eab44.png)
+
+
 
 A cRPG created in Unreal Engine 4, mainly in blueprints. Due to the project's size during development only desktop version of github was used.
 This repository contains only code-related assets, such as blueprints, c++ files and assets required for the code to work due to the references etc.
@@ -26,3 +29,5 @@ Tools&assets used:
 - Character Creator 3.44 with following assets:
   - Castle Guard Male made by Xurge 3D
   - The Guardian – Fantasy Armor made Slayerazazel
+
+- Digital art made by Dominika Gruszczyńska
